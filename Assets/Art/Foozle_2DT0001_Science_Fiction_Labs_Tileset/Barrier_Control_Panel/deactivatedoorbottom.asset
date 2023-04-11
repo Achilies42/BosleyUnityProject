@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: deactivatedoorbottom
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 333414426, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: 943332886, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -1076896148, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -1526903968, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -1149284631, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -1319487127, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: 550280180, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -146148450, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: 1686217873, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: 12563488, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: 1663707422, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: 122400924, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: 877358834, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -1148105453, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: 303940081, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -2038064935, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -1580557666, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -548776975, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  - {fileID: -548776975, guid: 952909dae5ec4084ebe369b584f93cdc, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

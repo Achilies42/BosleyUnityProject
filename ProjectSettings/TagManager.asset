@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - MyCoin
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: lab tiles
+    uniqueID: 3723731263
+    locked: 0
+  - name: Layer-0
+    uniqueID: 3239150631
+    locked: 0
+  - name: Layer-1
+    uniqueID: 3567285857
+    locked: 0
+  - name: Layer-2
+    uniqueID: 812672237
+    locked: 0
+  - name: Layer-3
+    uniqueID: 2607644143
+    locked: 0
+  - name: Layer-4
+    uniqueID: 3382358997
+    locked: 0
+  - name: Layer-5
+    uniqueID: 209673951
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: player
+    uniqueID: 1866193675
+    locked: 0

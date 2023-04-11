@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: computer
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -603563964, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 274499039, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -1274983852, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 1007843277, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -394476049, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 1687946813, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -813306661, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -2037139316, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -60296602, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 14183406, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 1892021506, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 1060440240, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 187572503, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -2020297811, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 1786208556, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 1422482628, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -507501147, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -332883959, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: 1426903605, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  - {fileID: -1606967268, guid: f5ae844d1252b4643aafe2312a989dcc, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
